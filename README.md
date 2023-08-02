@@ -5,9 +5,9 @@
 https://simpleicons.org ICONS--->
 
 <div align=center>
-<img src="https://img.shields.io/github/repo-size/mellralla/Java_Alura?color=ffa6d2&label=general%20size&logo=github&logoColor=ffa6d2&style=for-the-badge"/>
-<img src="https://img.shields.io/github/languages/count/mellralla/Java_Alura?&logo=academia&logoColor=ffa6d2&color=ffa6d2&label=LANGUAGES&style=for-the-badge"/>
-<img src="https://img.shields.io/github/directory-file-count/mellralla/Java_Alura?&logo=onlyoffice&logoColor=ffa6d2&color=ffa6d2&label=Files&style=for-the-badge"/>
+<img src="https://img.shields.io/github/repo-size/mellralla/node_chatgpt_api?color=ffa6d2&label=general%20size&logo=github&logoColor=ffa6d2&style=for-the-badge"/>
+<img src="https://img.shields.io/github/languages/count/mellralla/node_chatgpt_api?&logo=academia&logoColor=ffa6d2&color=ffa6d2&label=LANGUAGES&style=for-the-badge"/>
+<img src="https://img.shields.io/github/directory-file-count/mellralla/node_chatgpt_api?&logo=onlyoffice&logoColor=ffa6d2&color=ffa6d2&label=Files&style=for-the-badge"/>
 </div>
 
 <br>
